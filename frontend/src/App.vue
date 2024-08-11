@@ -1,17 +1,20 @@
 <template>
-  <div id="app">
+  <div id="app" data-theme="" class="min-h-screen">
     <NavbarStructure />
+    <div class="bg-white w-[95%] mx-auto">
+
     <router-view />
+    </div>
   </div>
 </template>
 
 <script>
-import NavbarStructure from "@/components/layout/NavbarStructure.vue";
+ import NavbarStructure from "@/components/layout/NavbarStructure.vue";
 
 export default {
   name: 'App',
   components: {
-    NavbarStructure,
+    NavbarStructure
   },
 };
 </script>
@@ -25,6 +28,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
