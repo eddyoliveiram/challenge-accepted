@@ -1,7 +1,7 @@
 <template>
-  <div id="app" data-theme="" class="min-h-screen">
+  <div id="app" data-theme="autumn" class="min-h-screen bg-gray-100">
     <NavbarStructure />
-    <div class="bg-white w-[95%] mx-auto">
+    <div class="w-[95%] mx-auto">
 
     <router-view />
     </div>

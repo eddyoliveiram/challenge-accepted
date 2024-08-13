@@ -167,7 +167,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/eddy/projects/challenge-accepted/frontend/src/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/xampp/htdocs/gaudium-app&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -189,6 +189,7 @@
       <recent name="\\wsl$\Ubuntu\home\eddy\projects\challenge-accepted\frontend\src\views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\eddy\projects\challenge-accepted\frontend\src\components\base" />
       <recent name="\\wsl$\Ubuntu\home\eddy\projects\challenge-accepted\frontend\src\components" />
     </key>
   </component>
@@ -218,6 +219,8 @@
       <workItem from="1723161959236" duration="193000" />
       <workItem from="1723162265704" duration="70000" />
       <workItem from="1723162499418" duration="3732000" />
+      <workItem from="1723493796753" duration="20000" />
+      <workItem from="1723514456887" duration="2952000" />
     </task>
     <servers />
   </component>
@@ -229,8 +232,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/frontend/src/components/layout/NavbarStructure.vue</url>
-          <line>54</line>
-          <properties lambdaOrdinal="-1" />
+          <line>57</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

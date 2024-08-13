@@ -1,5 +1,5 @@
 <template>
-  <div class="card w-full max-w-sm shadow-lg bg-white">
+  <div class="card w-full max-w-sm shadow-lg">
     <div class="card-body">
       <h2 class="card-title text-lg">{{ title }}</h2>
       <slot></slot>
